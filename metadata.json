@@ -1,0 +1,6 @@
+{
+  "name": "Tayyorlaymiz-English",
+  "description": "IELTS 9.0 va C2 Ingliz tili tayyorgarlik platformasi: Listening, Reading, Writing, Speaking, nazariy to'liq imtihon, sertifikat va admin boshqaruvi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
